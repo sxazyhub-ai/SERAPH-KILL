@@ -79,13 +79,13 @@ local Credits = K1LL:AddTab("CREDITS")
 local lbl1 = Credits:AddLabel("MERCY")
 lbl1.TextSize = 30
 lbl1.TextColor3 = Color3.fromRGB(255, 215, 0)
-local lbl2 = Credits:AddLabel("EZ GG")
+local lbl2 = Credits:AddLabel("ME AHORRAN EL TRABAJO")
 lbl2.TextSize = 26
 lbl2.TextColor3 = Color3.fromRGB(0, 255, 0)
-local lbl3 = Credits:AddLabel("KOD ON TOP")
+local lbl3 = Credits:AddLabel("Z3R ON TOP ")
 lbl3.TextSize = 26
 lbl3.TextColor3 = Color3.fromRGB(255, 0, 0)
-Credits:AddLabel(" ")
+Credits:AddLabel("no le saben esos weyes")
 
 local Main = K1LL:AddTab("Main")
 local Killing = K1LL:AddTab("Killing")
