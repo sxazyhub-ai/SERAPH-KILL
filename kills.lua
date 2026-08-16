@@ -16,7 +16,7 @@ local MuscleEvent = LocalPlayer:FindFirstChild("muscleEvent") or LocalPlayer:Wai
 local BrawlEvent = REvents:FindFirstChild("brawlEvent") or REvents:WaitForChild("brawlEvent")
 local EquipPetEvent = REvents:FindFirstChild("equipPetEvent") or REvents:WaitForChild("equipPetEvent")
 
-local K1LL = loadstring(game:HttpGet("https://raw.githubusercontent.com/User129789/Ty/refs/heads/main/Lybrery", true))():AddWindow("SERAPH KILL", {
+local K1LL = loadstring(game:HttpGet("https://raw.githubusercontent.com/sxazyhub-ai/librery2.0/refs/heads/main/librery.lua", true))():AddWindow("SERAPH KILL", {
     min_size = Vector2.new(500, 870),
     can_resize = false,
     main_color = Color3.fromRGB(0, 0, 0)
